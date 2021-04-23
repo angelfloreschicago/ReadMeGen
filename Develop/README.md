@@ -1,11 +1,11 @@
 
-  # Weather Dashboard
+  # erth
 
   [GitHub License](www.google.com)
   
   ## Description
 
-  ReadMe Generator
+  erth
 
   ## Table of Contents
 
@@ -18,26 +18,28 @@
   
   ## Installation
 
-  true
+  false
 
   ## Usage
 
-  A lot of things
+  erth
 
   ## License
 
-  Apache 2.0
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+    
+  [BSD 3](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Contributing
 
-  Not many things
+  erth
 
   ## Tests
 
-  git push origin main
+  wrth
 
   ## Questions
-    For any questions please email me here: angelfloreschicago@gmail.com
+    For any questions please email me here: erh
 
-  [GitHub](https://github.com/angelfloreschicago)
+  [GitHub](https://github.com/rth)
 
