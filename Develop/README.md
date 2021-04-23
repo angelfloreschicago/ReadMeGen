@@ -1,11 +1,11 @@
 
-  # Read Me Gen
+  # Weather Dashboard
 
   [GitHub License](www.google.com)
   
   ## Description
 
-  This app generates a Read Me file
+  ReadMe Generator
 
   ## Table of Contents
 
@@ -22,7 +22,7 @@
 
   ## Usage
 
-  everything
+  A lot of things
 
   ## License
 
@@ -30,14 +30,14 @@
 
   ## Contributing
 
-  nothing
+  Not many things
 
   ## Tests
 
-  whatever you want
+  git push origin main
 
   ## Questions
-    For any questions please email me here: nerdplex@gmail.com
+    For any questions please email me here: angelfloreschicago@gmail.com
 
   [GitHub](https://github.com/angelfloreschicago)
 
