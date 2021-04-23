@@ -1,11 +1,9 @@
 
-  # erth
-
-  [GitHub License](www.google.com)
+  # ReadMe Generator
   
   ## Description
 
-  erth
+    This app generates a ReadMe doc.
 
   ## Table of Contents
 
@@ -18,28 +16,30 @@
   
   ## Installation
 
-  false
+    npm i
 
   ## Usage
 
-  erth
+    Contact me for info.
 
   ## License
 
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     
-  [BSD 3](https://opensource.org/licenses/BSD-3-Clause)
+  [AGPL 3.0](https://opensource.org/licenses/AGPL-3.0)
 
   ## Contributing
 
-  erth
+    Email me for info.
 
   ## Tests
 
-  wrth
+    npm test
 
   ## Questions
-    For any questions please email me here: erh
-
-  [GitHub](https://github.com/rth)
+    For any questions please email me here: angelfloreschicago@gmail.com
+  
+  ## My GitHub
+  
+  [GitHub](https://github.com/angelfloreschicago)
 

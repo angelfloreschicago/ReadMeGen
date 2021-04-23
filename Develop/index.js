@@ -33,14 +33,17 @@ const questions = [
     choices: ['MIT', 'Apache 2.0', 'AGPL 3.0', 'BSD 3', 'None'],
   },
   {
-    type: 'confirm',
-    message: '(bsd3)',
+    type: 'input',
+    message: 'What command should be run to install dependencies?',
     name: 'installation',
+    default: 'npm i'
   },
   {
     type: 'input',
-    message: 'What command should be run to tun tests?',
+    message: 'What command should be run to run tests?',
     name: 'tests',
+    default: 'npm test'
+   
   },
   {
     type: 'input',
@@ -63,7 +66,7 @@ function writeToFile(fileName, data) {
     if (err) {
         return console.log(err)
     } else {
-        console.log("success")
+        console.log("Read Me Generated ...")
     }
 })
 }

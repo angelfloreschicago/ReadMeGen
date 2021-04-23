@@ -65,7 +65,7 @@ function generateMarkdown(data) {
   
   ## Description
 
-  ${data.description}
+    ${data.description}
 
   ## Table of Contents
 
@@ -78,11 +78,11 @@ function generateMarkdown(data) {
   
   ## Installation
 
-  ${data.installation}
+    ${data.installation}
 
   ## Usage
 
-  ${data.usage}
+    ${data.usage}
 
   ## License
 
@@ -90,15 +90,17 @@ function generateMarkdown(data) {
 
   ## Contributing
 
-  ${data.contributing}
+    ${data.contributing}
 
   ## Tests
 
-  ${data.tests}
+    ${data.tests}
 
   ## Questions
     For any questions please email me here: ${data.email}
-
+  
+  ## My GitHub
+  
   [GitHub](https://github.com/${data.username})
 
 `;
