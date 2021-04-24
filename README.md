@@ -1,4 +1,4 @@
-# ReadMe Generator
+# README Generator
 
 ## Description
     This command line application generates a README.md. This allows developers to save time
